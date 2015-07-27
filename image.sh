@@ -1,0 +1,1 @@
+fbi -T 2 -d /dev/fb1 -noverbose -a /data/logo.png
